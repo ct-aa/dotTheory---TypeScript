@@ -26,3 +26,4 @@ const returnObjectFn = (name, age) => {
     console.log("Example of destructured values in an object =>", `first value = ${userName},`, `second value = ${userAge}`);
 };
 returnObjectFn("AA", 28);
+

@@ -48,3 +48,4 @@ const returnObjectFn = (name: string, age: number) => {
 };
 
 returnObjectFn("AA", 28);
+
